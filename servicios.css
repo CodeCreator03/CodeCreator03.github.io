@@ -99,6 +99,7 @@ section{
 header{
     position: fixed;
     display: flex;
+    flex-wrap: wrap;
     height: 10vh;
     width: 100%;
     background-color: #007BFF;
