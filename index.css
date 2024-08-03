@@ -43,13 +43,13 @@ header {
     align-items: center; /* Centra verticalmente el contenido */
     padding: 10px 20px; /* Espaciado interno */
 }
-  
+
 .logo {
     height: 150px; /* Altura del logo */
     width: 150px; /* Mantén la proporción de la imagen */
     padding: 25px;
 }
-  
+
 nav {
     margin-right: 90px; 
     display: flex;
