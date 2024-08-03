@@ -51,6 +51,7 @@ header{
 nav{
     margin-right: 90px; 
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     padding-left: 20px;
 }
